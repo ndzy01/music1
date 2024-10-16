@@ -26,9 +26,10 @@ function readFiles(directory) {
     if (stat.isDirectory()) {
       readFiles(filePath); // 如果是目录，则递归调用
     } else {
+      console.log(filePath)
       // 生成文件信息，并添加到fileList中
       fileList.push({
-        url: `https://www.ndzy01.com/${name}/${path.relative(__dirname, filePath)}`,
+        url: `https://www.ndzy01.com/${name}/${path.relative(__dirname+"/resource/", filePath)}`,
         name: path.basename(filePath, path.extname(filePath)),
         id: generateUUID(),
         fileType: file.substring(file.lastIndexOf('.') + 1),
