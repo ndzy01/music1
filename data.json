@@ -1,74 +1,248 @@
 [
   {
+    "url": "https://www.ndzy01.com/music1/music/C.BG/崔子格 - 卜卦.flac",
+    "name": "崔子格 - 卜卦",
+    "id": "6a475203-9ef0-464d-a34b-db9596600ce8",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/C.BG/崔子格 - 卜卦.mp3",
+    "name": "崔子格 - 卜卦",
+    "id": "b21b7194-32eb-40be-8461-2365bd8daead",
+    "fileType": "mp3"
+  },
+  {
     "url": "https://www.ndzy01.com/music1/music/L.HL/刘若英 - 后来.flac",
     "name": "刘若英 - 后来",
-    "id": "354054ec-547c-46eb-993f-f70b83705767",
+    "id": "33488cd7-b1a6-4a78-84ff-039c0f172a9b",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/L.HL/刘若英 - 后来.mp3",
     "name": "刘若英 - 后来",
-    "id": "07bfe8fe-4bb6-4e47-b17a-fa32d0606ba9",
+    "id": "89e262dc-358e-417d-bb92-6e4a309f5514",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/THZ/陈一发儿 - 童话镇.ape",
+    "name": "陈一发儿 - 童话镇",
+    "id": "b91e1ea8-23c0-4192-93f5-9b1a96b40b9b",
+    "fileType": "ape"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/THZ/陈一发儿 - 童话镇.flac",
+    "name": "陈一发儿 - 童话镇",
+    "id": "5676981c-9f20-480d-aca0-ac5ae84fd7c6",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/THZ/陈一发儿 - 童话镇.mp3",
+    "name": "陈一发儿 - 童话镇",
+    "id": "154dea2f-edf9-4439-93e3-bd53da43712b",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/Y.CCW/杨千嬅 - 处处吻.flac",
+    "name": "杨千嬅 - 处处吻",
+    "id": "2bfb113e-66d9-4de5-a117-8786e90abf47",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/Y.CCW/杨千嬅 - 处处吻.mp3",
+    "name": "杨千嬅 - 处处吻",
+    "id": "20975633-7f61-485e-9028-a4e8f4bfb2be",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/Z.AD/张韶涵 - 阿刁 (Live).flac",
+    "name": "张韶涵 - 阿刁 (Live)",
+    "id": "7fd01d7e-a0f7-42e2-a954-2695749d7bae",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/Z.AD/张韶涵 - 阿刁 (Live).mp3",
+    "name": "张韶涵 - 阿刁 (Live)",
+    "id": "ece3028e-5a5f-4e36-a84d-02f5e434eb62",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.LTX/周杰伦 - 兰亭序.flac",
     "name": "周杰伦 - 兰亭序",
-    "id": "80370702-6596-424f-b329-c4be73daf155",
+    "id": "a52f0912-91d7-44ff-89b3-187e90b97f45",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.LTX/周杰伦 - 兰亭序.mp3",
     "name": "周杰伦 - 兰亭序",
-    "id": "fa17a706-e5c4-49a1-a7d5-07edf55dad22",
+    "id": "339f2060-f7a2-444c-aaca-9c1711ef5843",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/Z.QGC/周杰伦 - 青花瓷.flac",
+    "name": "周杰伦 - 青花瓷",
+    "id": "45e14ec3-f4a5-472a-8108-f307d59bc5cb",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/Z.QGC/周杰伦 - 青花瓷.mp3",
+    "name": "周杰伦 - 青花瓷",
+    "id": "82040c31-802e-4539-be1d-8355e6a5730a",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/Z.Y/周杰伦,潘儿 - 夜的第七章.flac",
+    "name": "周杰伦,潘儿 - 夜的第七章",
+    "id": "ead8d412-6425-4166-a6f9-7b8ae9b84860",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/Z.Y/周杰伦,潘儿 - 夜的第七章.mp3",
+    "name": "周杰伦,潘儿 - 夜的第七章",
+    "id": "b8e68741-6766-442a-81c5-081a5981abbb",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/Z.YQ/周杰伦 - 夜曲.flac",
+    "name": "周杰伦 - 夜曲",
+    "id": "c89fee8e-2053-4bb4-bafd-59b8a2cc44e5",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/Z.YQ/周杰伦 - 夜曲.mp3",
+    "name": "周杰伦 - 夜曲",
+    "id": "a95feefb-0b55-4604-a63d-af40fa81de92",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/Z.YX/张韶涵 - 隐形的翅膀.flac",
+    "name": "张韶涵 - 隐形的翅膀",
+    "id": "df2b4fc8-bf93-4108-a29e-ce3bf4435915",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/Z.YX/张韶涵 - 隐形的翅膀.mp3",
+    "name": "张韶涵 - 隐形的翅膀",
+    "id": "179b94c9-c0f3-48dc-b925-256d61e042e6",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/c.r/蔡依林 - 日不落.flac",
+    "name": "蔡依林 - 日不落",
+    "id": "0f7ecea3-13ad-46e9-939b-86346d624838",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/c.r/蔡依林 - 日不落.mp3",
+    "name": "蔡依林 - 日不落",
+    "id": "319a98cc-8dbe-48b1-b69b-a6bfb1677f8a",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/d.n/动力火车 - 那就这样吧.flac",
     "name": "动力火车 - 那就这样吧",
-    "id": "a577af81-405a-4a59-b7e1-6bc2fd5c0b55",
+    "id": "f1617234-d3e2-4e90-92d0-ea90446d1b31",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/d.n/动力火车 - 那就这样吧.mp3",
     "name": "动力火车 - 那就这样吧",
-    "id": "b939bb96-f581-4166-8971-e8457919450e",
+    "id": "8b20765f-08f1-48d1-aba0-6d0d8a0ca0fc",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/d.pm/G.E.M. 邓紫棋 - 泡沫.flac",
+    "name": "G.E.M. 邓紫棋 - 泡沫",
+    "id": "71af28bb-4259-4356-880c-627a9079c2a4",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/d.pm/G.E.M. 邓紫棋 - 泡沫.mp3",
+    "name": "G.E.M. 邓紫棋 - 泡沫",
+    "id": "370662e1-4b91-429d-af06-f5f9324536a2",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/d.th/G.E.M.邓紫棋 - 桃花诺.flac",
+    "name": "G.E.M.邓紫棋 - 桃花诺",
+    "id": "34b9772f-7134-429b-bb99-fb74f832ce71",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/d.th/G.E.M.邓紫棋 - 桃花诺.mp3",
+    "name": "G.E.M.邓紫棋 - 桃花诺",
+    "id": "0ddce744-0b9c-4e1f-9ab6-a40284f00113",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/mn/黄小琥 - 没那么简单.flac",
+    "name": "黄小琥 - 没那么简单",
+    "id": "cf74b71d-ebce-47a4-956a-561d0fa538f7",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/mn/黄小琥 - 没那么简单.mp3",
+    "name": "黄小琥 - 没那么简单",
+    "id": "e166726e-8df3-4807-b121-32705a93488b",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/sx/凤凰传奇 - 奢香夫人.flac",
     "name": "凤凰传奇 - 奢香夫人",
-    "id": "9c80f380-3174-4ead-a39e-00cd59c5baa3",
+    "id": "20c098c8-52d5-4238-a240-2c07083561a7",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/sx/凤凰传奇 - 奢香夫人.mp3",
     "name": "凤凰传奇 - 奢香夫人",
-    "id": "0590ffe8-f943-4fae-af6f-a236b582a24d",
+    "id": "ba38331e-6dda-4bfd-a98e-4b9fa2edfeb3",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/w.n/伍佰 & China Blue - 挪威的森林.flac",
     "name": "伍佰 & China Blue - 挪威的森林",
-    "id": "d8b38776-df0f-4110-8e61-8eb5303db751",
+    "id": "5c238b63-334c-437f-8aa6-3e045710da03",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/w.n/伍佰 & China Blue - 挪威的森林.mp3",
     "name": "伍佰 & China Blue - 挪威的森林",
-    "id": "f102b1b6-df6f-4185-b235-35511aabf98f",
+    "id": "cd9f4b15-765b-4793-b0a0-f91a760b12b1",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/w.t/伍佰 & China Blue - 突然的自我.flac",
     "name": "伍佰 & China Blue - 突然的自我",
-    "id": "9887559c-cd3e-433f-a615-0948afe8d7bc",
+    "id": "354f630a-19d6-4ab2-9f90-75f10c0ca42e",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/w.t/伍佰 & China Blue - 突然的自我.mp3",
     "name": "伍佰 & China Blue - 突然的自我",
-    "id": "851fefe6-d611-458f-8db1-73a04ae328e5",
+    "id": "45986987-1bc3-4380-97c6-6eeb5634bc8d",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/x.j/许嵩,黄龄 - 惊鸿一面.flac",
+    "name": "许嵩,黄龄 - 惊鸿一面",
+    "id": "659ddec4-524e-40c4-b865-3bc7df521672",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/x.j/许嵩,黄龄 - 惊鸿一面.mp3",
+    "name": "许嵩,黄龄 - 惊鸿一面",
+    "id": "a96de5be-c76c-49f1-9914-72eaa4da9980",
+    "fileType": "mp3"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/x.s/许嵩,何曼婷 - 素颜.flac",
+    "name": "许嵩,何曼婷 - 素颜",
+    "id": "86b6232a-5a8f-4dcb-ae88-8c5bdfd1bdcf",
+    "fileType": "flac"
+  },
+  {
+    "url": "https://www.ndzy01.com/music1/music/x.s/许嵩,何曼婷 - 素颜.mp3",
+    "name": "许嵩,何曼婷 - 素颜",
+    "id": "724f2e9f-2cf7-45d4-8a58-b9075d99c042",
     "fileType": "mp3"
   }
 ]
