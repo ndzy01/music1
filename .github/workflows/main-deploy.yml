@@ -1,0 +1,42 @@
+name: 构建
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  updateData:
+    name: updateData
+    runs-on: ubuntu-latest
+    steps:
+      - name: 切换分支
+        uses: actions/checkout@v4
+        with: { ref: main }
+      - name: 配置 git
+        run: |
+          git config --local user.email "2326962137@qq.com"
+          git config --local user.name "action-bot"
+      - name: 更新数据
+        run: |
+          node ndzy.js
+          git add .
+          git commit -a -m "更新数据 $(date +"%D %T")"
+      - name: 推送
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+  deployJob:
+    needs: updateData
+    name: deployJob
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        # 指定分支
+        with: { ref: main }
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./resource
