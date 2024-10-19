@@ -1,248 +1,330 @@
 [
   {
     "url": "https://www.ndzy01.com/music1/music/C.BG/崔子格 - 卜卦.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/崔子格 - 卜卦",
+    "sliceDuration": 0,
     "name": "崔子格 - 卜卦",
-    "id": "6a475203-9ef0-464d-a34b-db9596600ce8",
+    "id": "f96efaa6-2f51-4941-bd22-4fdafd9553a7",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/C.BG/崔子格 - 卜卦.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/崔子格 - 卜卦",
+    "sliceDuration": 218,
     "name": "崔子格 - 卜卦",
-    "id": "b21b7194-32eb-40be-8461-2365bd8daead",
+    "id": "6c2599e1-7804-47fc-8eeb-efe86e546a77",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/L.HL/刘若英 - 后来.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/刘若英 - 后来",
+    "sliceDuration": 0,
     "name": "刘若英 - 后来",
-    "id": "33488cd7-b1a6-4a78-84ff-039c0f172a9b",
+    "id": "cecb1798-5950-4bbd-8991-26aaba2dab55",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/L.HL/刘若英 - 后来.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/刘若英 - 后来",
+    "sliceDuration": 343,
     "name": "刘若英 - 后来",
-    "id": "89e262dc-358e-417d-bb92-6e4a309f5514",
+    "id": "d79337ea-84e8-4efa-a2f8-110d5f592600",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/THZ/陈一发儿 - 童话镇.ape",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/陈一发儿 - 童话镇",
+    "sliceDuration": 0,
     "name": "陈一发儿 - 童话镇",
-    "id": "b91e1ea8-23c0-4192-93f5-9b1a96b40b9b",
+    "id": "95c146d2-9642-4e40-be41-983ed3242eec",
     "fileType": "ape"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/THZ/陈一发儿 - 童话镇.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/陈一发儿 - 童话镇",
+    "sliceDuration": 0,
     "name": "陈一发儿 - 童话镇",
-    "id": "5676981c-9f20-480d-aca0-ac5ae84fd7c6",
+    "id": "8e3a2376-efc4-4001-93f5-49a551db04c3",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/THZ/陈一发儿 - 童话镇.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/陈一发儿 - 童话镇",
+    "sliceDuration": 259,
     "name": "陈一发儿 - 童话镇",
-    "id": "154dea2f-edf9-4439-93e3-bd53da43712b",
+    "id": "7b3ec8e2-3109-4d33-b8a6-5ddcefa084c3",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Y.CCW/杨千嬅 - 处处吻.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/杨千嬅 - 处处吻",
+    "sliceDuration": 0,
     "name": "杨千嬅 - 处处吻",
-    "id": "2bfb113e-66d9-4de5-a117-8786e90abf47",
+    "id": "94e2fb85-7d7b-4d93-8b25-654241735b18",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Y.CCW/杨千嬅 - 处处吻.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/杨千嬅 - 处处吻",
+    "sliceDuration": 201,
     "name": "杨千嬅 - 处处吻",
-    "id": "20975633-7f61-485e-9028-a4e8f4bfb2be",
+    "id": "87337884-2bca-4812-8c41-85da88c758a2",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.AD/张韶涵 - 阿刁 (Live).flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/张韶涵 - 阿刁 (Live)",
+    "sliceDuration": 0,
     "name": "张韶涵 - 阿刁 (Live)",
-    "id": "7fd01d7e-a0f7-42e2-a954-2695749d7bae",
+    "id": "cf471dce-5642-4273-bc04-5b84e66819e9",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.AD/张韶涵 - 阿刁 (Live).mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/张韶涵 - 阿刁 (Live)",
+    "sliceDuration": 323,
     "name": "张韶涵 - 阿刁 (Live)",
-    "id": "ece3028e-5a5f-4e36-a84d-02f5e434eb62",
+    "id": "3316d108-cdab-4561-a416-013d64fb615a",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.LTX/周杰伦 - 兰亭序.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/周杰伦 - 兰亭序",
+    "sliceDuration": 0,
     "name": "周杰伦 - 兰亭序",
-    "id": "a52f0912-91d7-44ff-89b3-187e90b97f45",
+    "id": "eae00db6-3573-4ac0-b566-dd52ce2743a2",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.LTX/周杰伦 - 兰亭序.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/周杰伦 - 兰亭序",
+    "sliceDuration": 256,
     "name": "周杰伦 - 兰亭序",
-    "id": "339f2060-f7a2-444c-aaca-9c1711ef5843",
+    "id": "1fadac46-2f66-4cb5-bf09-88f0fe64b7aa",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.QGC/周杰伦 - 青花瓷.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/周杰伦 - 青花瓷",
+    "sliceDuration": 0,
     "name": "周杰伦 - 青花瓷",
-    "id": "45e14ec3-f4a5-472a-8108-f307d59bc5cb",
+    "id": "5813a5bf-5f42-49ae-ab20-863adc61cf08",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.QGC/周杰伦 - 青花瓷.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/周杰伦 - 青花瓷",
+    "sliceDuration": 241,
     "name": "周杰伦 - 青花瓷",
-    "id": "82040c31-802e-4539-be1d-8355e6a5730a",
+    "id": "06b7ed1f-45c2-40b2-8548-5dff04c55020",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.Y/周杰伦,潘儿 - 夜的第七章.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/周杰伦,潘儿 - 夜的第七章",
+    "sliceDuration": 0,
     "name": "周杰伦,潘儿 - 夜的第七章",
-    "id": "ead8d412-6425-4166-a6f9-7b8ae9b84860",
+    "id": "b7e152f4-85a4-4179-825c-3181c3249edd",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.Y/周杰伦,潘儿 - 夜的第七章.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/周杰伦,潘儿 - 夜的第七章",
+    "sliceDuration": 230,
     "name": "周杰伦,潘儿 - 夜的第七章",
-    "id": "b8e68741-6766-442a-81c5-081a5981abbb",
+    "id": "d64791d4-a177-4dad-9881-88e93c31ecd7",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.YQ/周杰伦 - 夜曲.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/周杰伦 - 夜曲",
+    "sliceDuration": 0,
     "name": "周杰伦 - 夜曲",
-    "id": "c89fee8e-2053-4bb4-bafd-59b8a2cc44e5",
+    "id": "3913c4f1-c67a-4acb-ba8b-123dd198d425",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.YQ/周杰伦 - 夜曲.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/周杰伦 - 夜曲",
+    "sliceDuration": 228,
     "name": "周杰伦 - 夜曲",
-    "id": "a95feefb-0b55-4604-a63d-af40fa81de92",
+    "id": "b0d743a9-8fa0-4fff-acdb-5ec41dfcb628",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.YX/张韶涵 - 隐形的翅膀.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/张韶涵 - 隐形的翅膀",
+    "sliceDuration": 0,
     "name": "张韶涵 - 隐形的翅膀",
-    "id": "df2b4fc8-bf93-4108-a29e-ce3bf4435915",
+    "id": "696c6562-1085-4cf4-83c4-5d8516004e90",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/Z.YX/张韶涵 - 隐形的翅膀.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/张韶涵 - 隐形的翅膀",
+    "sliceDuration": 226,
     "name": "张韶涵 - 隐形的翅膀",
-    "id": "179b94c9-c0f3-48dc-b925-256d61e042e6",
+    "id": "d62935ce-163b-4383-8cc4-afdeb4270b62",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/c.r/蔡依林 - 日不落.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/蔡依林 - 日不落",
+    "sliceDuration": 0,
     "name": "蔡依林 - 日不落",
-    "id": "0f7ecea3-13ad-46e9-939b-86346d624838",
+    "id": "5f7c2f1a-544f-496d-8e10-ce11524c1bf3",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/c.r/蔡依林 - 日不落.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/蔡依林 - 日不落",
+    "sliceDuration": 230,
     "name": "蔡依林 - 日不落",
-    "id": "319a98cc-8dbe-48b1-b69b-a6bfb1677f8a",
+    "id": "c39177a6-8eca-4792-a653-c9b12bc85dba",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/d.n/动力火车 - 那就这样吧.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/动力火车 - 那就这样吧",
+    "sliceDuration": 0,
     "name": "动力火车 - 那就这样吧",
-    "id": "f1617234-d3e2-4e90-92d0-ea90446d1b31",
+    "id": "929679ab-b714-457a-9cbb-024831a4e158",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/d.n/动力火车 - 那就这样吧.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/动力火车 - 那就这样吧",
+    "sliceDuration": 278,
     "name": "动力火车 - 那就这样吧",
-    "id": "8b20765f-08f1-48d1-aba0-6d0d8a0ca0fc",
+    "id": "909f654a-19b5-41fd-9096-084330c80de9",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/d.pm/G.E.M. 邓紫棋 - 泡沫.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/G.E.M. 邓紫棋 - 泡沫",
+    "sliceDuration": 0,
     "name": "G.E.M. 邓紫棋 - 泡沫",
-    "id": "71af28bb-4259-4356-880c-627a9079c2a4",
+    "id": "2fdd9c14-c220-4314-9742-b4f1c33a6e5c",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/d.pm/G.E.M. 邓紫棋 - 泡沫.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/G.E.M. 邓紫棋 - 泡沫",
+    "sliceDuration": 260,
     "name": "G.E.M. 邓紫棋 - 泡沫",
-    "id": "370662e1-4b91-429d-af06-f5f9324536a2",
+    "id": "93fa6b4d-2b51-40d6-a9a6-900adf7d31b6",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/d.th/G.E.M.邓紫棋 - 桃花诺.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/G.E.M.邓紫棋 - 桃花诺",
+    "sliceDuration": 0,
     "name": "G.E.M.邓紫棋 - 桃花诺",
-    "id": "34b9772f-7134-429b-bb99-fb74f832ce71",
+    "id": "d67b77c0-3009-4ca5-ba98-c197478c8b62",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/d.th/G.E.M.邓紫棋 - 桃花诺.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/G.E.M.邓紫棋 - 桃花诺",
+    "sliceDuration": 221,
     "name": "G.E.M.邓紫棋 - 桃花诺",
-    "id": "0ddce744-0b9c-4e1f-9ab6-a40284f00113",
+    "id": "31928391-2999-451c-bd41-8c76e5f630ed",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/mn/黄小琥 - 没那么简单.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/黄小琥 - 没那么简单",
+    "sliceDuration": 0,
     "name": "黄小琥 - 没那么简单",
-    "id": "cf74b71d-ebce-47a4-956a-561d0fa538f7",
+    "id": "185ed654-901d-4177-9c76-4bb9ee88aa2c",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/mn/黄小琥 - 没那么简单.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/黄小琥 - 没那么简单",
+    "sliceDuration": 310,
     "name": "黄小琥 - 没那么简单",
-    "id": "e166726e-8df3-4807-b121-32705a93488b",
+    "id": "70a16fd6-3fe9-44a8-bc41-3441453fb2a4",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/sx/凤凰传奇 - 奢香夫人.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/凤凰传奇 - 奢香夫人",
+    "sliceDuration": 0,
     "name": "凤凰传奇 - 奢香夫人",
-    "id": "20c098c8-52d5-4238-a240-2c07083561a7",
+    "id": "b58574bb-bfc2-40d7-b0ec-19e0653de2e6",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/sx/凤凰传奇 - 奢香夫人.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/凤凰传奇 - 奢香夫人",
+    "sliceDuration": 261,
     "name": "凤凰传奇 - 奢香夫人",
-    "id": "ba38331e-6dda-4bfd-a98e-4b9fa2edfeb3",
+    "id": "4e6ad12f-7b93-4530-8010-fd728bcb748d",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/w.n/伍佰 & China Blue - 挪威的森林.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/伍佰 & China Blue - 挪威的森林",
+    "sliceDuration": 0,
     "name": "伍佰 & China Blue - 挪威的森林",
-    "id": "5c238b63-334c-437f-8aa6-3e045710da03",
+    "id": "253178cb-17b2-4989-b941-6fb78439abbc",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/w.n/伍佰 & China Blue - 挪威的森林.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/伍佰 & China Blue - 挪威的森林",
+    "sliceDuration": 393,
     "name": "伍佰 & China Blue - 挪威的森林",
-    "id": "cd9f4b15-765b-4793-b0a0-f91a760b12b1",
+    "id": "c09667ec-d9c4-4e78-bcd2-1633ef3b7b6c",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/w.t/伍佰 & China Blue - 突然的自我.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/伍佰 & China Blue - 突然的自我",
+    "sliceDuration": 0,
     "name": "伍佰 & China Blue - 突然的自我",
-    "id": "354f630a-19d6-4ab2-9f90-75f10c0ca42e",
+    "id": "a38c7402-8c2a-4c5e-bc58-e8a3ba591281",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/w.t/伍佰 & China Blue - 突然的自我.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/伍佰 & China Blue - 突然的自我",
+    "sliceDuration": 217,
     "name": "伍佰 & China Blue - 突然的自我",
-    "id": "45986987-1bc3-4380-97c6-6eeb5634bc8d",
+    "id": "eb62feca-aecb-428b-a8fb-0c63f587e91d",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/x.j/许嵩,黄龄 - 惊鸿一面.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/许嵩,黄龄 - 惊鸿一面",
+    "sliceDuration": 0,
     "name": "许嵩,黄龄 - 惊鸿一面",
-    "id": "659ddec4-524e-40c4-b865-3bc7df521672",
+    "id": "25c993dc-6d66-482b-98b8-8b5a14abd029",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/x.j/许嵩,黄龄 - 惊鸿一面.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/许嵩,黄龄 - 惊鸿一面",
+    "sliceDuration": 258,
     "name": "许嵩,黄龄 - 惊鸿一面",
-    "id": "a96de5be-c76c-49f1-9914-72eaa4da9980",
+    "id": "37abd69e-6bff-4afa-b3b8-70060c339a51",
     "fileType": "mp3"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/x.s/许嵩,何曼婷 - 素颜.flac",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/许嵩,何曼婷 - 素颜",
+    "sliceDuration": 0,
     "name": "许嵩,何曼婷 - 素颜",
-    "id": "86b6232a-5a8f-4dcb-ae88-8c5bdfd1bdcf",
+    "id": "981a68a1-2acc-4002-ac04-1d7e8fcc51f0",
     "fileType": "flac"
   },
   {
     "url": "https://www.ndzy01.com/music1/music/x.s/许嵩,何曼婷 - 素颜.mp3",
+    "sliceUrl": "https://www.ndzy01.com/music1/slice/许嵩,何曼婷 - 素颜",
+    "sliceDuration": 242,
     "name": "许嵩,何曼婷 - 素颜",
-    "id": "724f2e9f-2cf7-45d4-8a58-b9075d99c042",
+    "id": "dadeb17b-05b8-4c95-9217-f88ec8e134a6",
     "fileType": "mp3"
   }
 ]
