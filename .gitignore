@@ -3,6 +3,9 @@
 *.local
 *.log*
 
+node_modules
+package-lock.json
+
 # IDE
 .vscode/*
 !.vscode/extensions.json
