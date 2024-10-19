@@ -1,3 +1,9 @@
 {
-  "name": "ndzy"
+  "name": "ndzy",
+  "dependencies": {
+    "audio-loader": "^1.0.3",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.2.0",
+    "fluent-ffmpeg": "^2.1.3"
+  }
 }
