@@ -78,15 +78,18 @@ const readFiles = async (directory) => {
       const fileType = file.substring(file.lastIndexOf('.') + 1);
       const name = path.basename(filePath, path.extname(filePath));
       let duration = 0;
+      const sliceUrls=[]
 
       if (fileType === 'mp3') {
         duration = await fun(filePath, path.basename(filePath, path.extname(filePath)));
+        for (let i = 0; i < duration; i++) {
+          sliceUrls.push(`https://www.ndzy01.com/${NAME}/slice/${name}/slice_${i}`);
+        }
       }
 
       fileList.push({
         url: `https://www.ndzy01.com/${NAME}/${path.relative(__dirname + '/resource/', filePath)}`,
-        sliceUrl: `https://www.ndzy01.com/${NAME}/slice/${name}`,
-        sliceDuration: duration,
+        sliceUrls,
         name,
         id: generateUUID(),
         fileType,
