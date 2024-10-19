@@ -83,7 +83,7 @@ const readFiles = async (directory) => {
       if (fileType === 'mp3') {
         duration = await fun(filePath, path.basename(filePath, path.extname(filePath)));
         for (let i = 0; i < duration; i++) {
-          sliceUrls.push(`https://www.ndzy01.com/${NAME}/slice/${name}/slice_${i}.mp3`);
+          sliceUrls.push(`https://www.ndzy01.com/${NAME}/slice/${name}/slice_${i+1}.mp3`);
         }
       }
 
