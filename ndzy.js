@@ -31,7 +31,7 @@ const readFiles = async (directory) => {
             if (fileType === "mp3" || fileType === "flac") {
                 const name = fs.readFileSync(path.dirname(filePath) + `/name.txt`, {encoding: 'utf-8'});
                 const id = generateUUID()
-                const newPath = path.dirname(filePath) + `${id}.${fileType}`
+                const newPath = path.dirname(filePath) + `/${id}.${fileType}`
                 fs.renameSync(filePath, path.dirname(filePath) + `/${id}.${fileType}`);
                 fileList.push({
                     url: `https://www.ndzy01.com/${NAME}/${path.relative(__dirname + '/resource/', newPath)}`,
