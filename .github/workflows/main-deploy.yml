@@ -1,6 +1,8 @@
 name: 构建
 
 on:
+  schedule:
+    - cron: '0 0-23 * * *'
   push:
     branches:
       - main
